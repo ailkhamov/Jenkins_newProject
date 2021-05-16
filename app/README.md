@@ -1,4 +1,4 @@
-## Sparta Node Sample App abrorj
+## Sparta Node Sample App abror
 
 ## Description
 
